@@ -1,7 +1,7 @@
 # Java
 Spring
 
-public class Add {
+public class Arithmetic 
 
 	public static void main(String[] args) {
 
